@@ -15,6 +15,9 @@
     "framer-motion": "^11.11.0",
     "lucide-react": "^0.454.0"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
